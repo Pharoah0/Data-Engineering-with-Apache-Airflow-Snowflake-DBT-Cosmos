@@ -8,12 +8,12 @@ Using Docker, we create a local Airflow environment with Astronomer & its Cosmos
 An analysis is needed for
 
 ## Data Preparation
-
+I generated 3 sample CSV files to operate DBT on. Within DBT, we created transformation & analysis models, which will create new tables from our data to explore.
 
 ## Methods Used
 I created a DBT User, a DBT dev role, a custom warehouse & custom database on Snowflake.
 
-I set up the Astro development environment within a local repository, complete with Cosmos & Airflow incorporated. Within the dags folder, I also installed a DBT environment containing all the data needed to execute this project. You can find all relevant files here.
+I set up the Astro development environment within a local repository, with Cosmos & Airflow incorporated. I also installed a DBT environment within the dags folder containing all the data needed to execute this project. You can find all relevant files here.
 
 ## Discoveries made
 I discovered that many inner workings & dependencies can cause conflict between Airflow & DBT. Utilizing Cosmos to manage DBT objects as Airflow DAGs is a massive time saver, and we all can get remarkably creative with how we incorporate DBT projects with Airflow & keep them within scope.
