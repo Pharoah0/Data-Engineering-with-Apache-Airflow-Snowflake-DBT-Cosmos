@@ -14,7 +14,7 @@ Using Docker, we create a local Airflow environment with Astronomer & its Cosmos
 
 ## Business Problem
 
-An analysis is needed for
+An analysis is needed for various hotel reservations details & guests who are reserving them. Analysis can lead to insights into what time of year generates the most reservations & discover guest reservation patterns and trends.
 
 ## Data Preparation
 
