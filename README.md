@@ -41,4 +41,5 @@ One way to improve this project is to incorporate Snowpark at the tail-end of mi
 ## Video Demo
 
 Please check out my demo, wherein I execute steps taken in this project in real time!
+
 [Data Engineering with Apache Airflow, Snowflake, Dbt & Cosmos](https://www.youtube.com/watch?v=JPh8D39x0pc)
