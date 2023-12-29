@@ -1,6 +1,7 @@
 # Data Engineering with Airflow, Snowflake, DBT & Cosmos
 
 Author: Pharoah Evelyn
+Video Demo: [Data Engineering with Apache Airflow, Snowflake, Dbt & Cosmos](https://www.youtube.com/watch?v=JPh8D39x0pc)
 
 <p align="center">
     <img src="https://github.com/Pharoah0/Data-Engineering-with-Apache-Airflow-Snowflake-DBT-Cosmos/blob/main/images/Airflow_dbt_Snowflake.png" />
@@ -36,4 +37,7 @@ I also familiarized myself with Snowflake and its easy-to-use UI & incorporation
 
 One way to improve this project is to incorporate Snowpark at the tail-end of migrating the data into the Snowflake data warehouse/database to have the ability to have some added data analysis with Python. One can also view analyzed data on a Streamlist dashboard within Snowflake.
 
-## Conclusions
+## Video Demo
+
+Please check out my demo, wherein I execute steps taken in this project in real time!
+[Data Engineering with Apache Airflow, Snowflake, Dbt & Cosmos](https://www.youtube.com/watch?v=JPh8D39x0pc)
